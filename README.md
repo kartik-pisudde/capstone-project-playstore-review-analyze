@@ -165,7 +165,7 @@ These are some of the aspects that the developer should research before proceedi
 
 Contact me for Data Science Project Collaborations
 
-[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/pranav4536/capstone-project-1-.git)
+[![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/kartik-pisudde/capstone-project-playstore-review-analyze.git)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
